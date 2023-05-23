@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from tkinter import *
 
 window = Tk()
@@ -9,9 +8,7 @@ window.iconbitmap("./src/icon.ico")
 window.config(background="#212121")
 
 titre = Label(window, text="Bienvenue sur BlueBrain", font=("Futura",40), bg=("#212121"), fg=("white"))
-
 titre.pack(expand=YES)
+
+
 window.mainloop()
-=======
-print("hello world")
->>>>>>> 74b8a43f4cd368244c663e79ec6b521eb5d8cd86
