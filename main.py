@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from tkinter import *
 
 window = Tk()
@@ -11,3 +12,6 @@ titre = Label(window, text="Bienvenue sur BlueBrain", font=("Futura",40), bg=("#
 
 titre.pack(expand=YES)
 window.mainloop()
+=======
+print("hello world")
+>>>>>>> 74b8a43f4cd368244c663e79ec6b521eb5d8cd86
